@@ -380,31 +380,7 @@ This repository focuses on recent advances in making **video diffusion models** 
   ![Interactive](https://img.shields.io/badge/-Interactive-f59e0b?style=flat-square)  
   ![GitHub Repo stars](https://img.shields.io/github/stars/thuml/Vid2World?style=flat-square)  
   Converts non-causal video diffusion backbones into autoregressive, temporally causal architectures with frame-level action conditioning for interactive world models.
----
-
-## Real-Time & Streaming Talking Head Generation
-
-- **StreamAvatar** · *CVPR 2026* · [Project](https://streamavatar.github.io)  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/streamavatar/streamavatar?style=flat-square)  
-  Converts high-fidelity non-causal diffusion models into streaming architectures.
-
-- **Live Avatar** · *arXiv 2025.12*  
-  14B-parameter audio-driven avatar generation at 20 FPS end-to-end.
-
-- **REST** · *arXiv 2025.12*  
-  Real-time audio-driven talking head diffusion on a single GPU using ID-Context Cache.
-
-- **PersonaLive!** · *CVPR 2026* · [Code](https://github.com/GVCLab/PersonaLive)  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/GVCLab/PersonaLive?style=flat-square)  
-  Micro-chunk streaming, 22× faster portrait animation.
-
-- **Knot Forcing** · *arXiv 2025.12* · [Code](https://github.com/HumanAIGC)  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/HumanAIGC/KnotForcing?style=flat-square)  
-  Infinite-sequence interactive portrait animation on consumer GPUs.
-
-- **LLIA** · *arXiv 2025.06* · [Project](https://meigen-ai.github.io/llia/)  
-  Low-latency INT8 quantized avatars, 78 FPS.
-
+  
 ---
 
 ## Interactive & Full-Duplex Conversational Avatars
